@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @vcodeproxy
+- 👀 I’m interested in coding websites.
+- 🌱 I’m currently learning html,css,javascript
